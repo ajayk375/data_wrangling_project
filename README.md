@@ -14,10 +14,15 @@ This project is to showcase the Data Wrangling concepts on Twitter Data and as p
 on the Twitter Data:
 
 Step 1: Gathering data
+
 Step 2: Assessing data
+
 Step 3: Cleaning data
+
 Step 4: Storing data
+
 Step 5: Analyzing, and visualizing data
+
 Step 6: Reporting
 
 As part of this exercise we also want to find out the top 10 favourite dogs based on retweets and favourite count.
