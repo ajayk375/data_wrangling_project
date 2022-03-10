@@ -69,7 +69,7 @@ from the following plot -
 
 ![Top 10 Dogs - Aggregate Fav Count](https://github.com/ajayk375/data_wrangling_project/blob/main/Screenshot%202022-03-10%20at%2017.46.24.png)
 
-On both the counts Golden Retriever:
+On both the counts Golden Retriever is the clear winner:
 
 ![Golden Retriever](https://github.com/ajayk375/data_wrangling_project/blob/main/golen_retriever.jpeg)
 
